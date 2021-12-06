@@ -16,7 +16,7 @@
 * Integração com o Stripe para a parte dos pagamentos das inscrições.
 * Integração com o NextAuth para a parte do login com o Github.
 * Sistema de verificação de assinatura, o conteúdo exibido varia entre usuários com/sem assinatura paga.
-* Dados são salvos no bando do FaunDb.
+* Dados são salvos no banco de dados FaunaDB.
 * Uso do sistema estático do Next.js, onde os posts são mantidos no cache para um melhor carregamento.
 
 &nbsp;
