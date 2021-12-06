@@ -43,7 +43,7 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GBDev13/ignews.git
+$ git clone https://github.com/tudaspontes/Ignews-desafio-final.git
 ```
 
 ```
@@ -74,8 +74,7 @@ $ yarn start
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/ignews/blob/main/LICENSE) para detalhes.
-
+Este projeto está licenciado sob a Licença MIT.
 
 ---
 
